@@ -1,0 +1,36 @@
+//void maxx(int x,int y,int z){// decleration of function and prototype
+//     int ans;
+//     ans=(x>y && x>z)?x:(y>z? y:z);this is calling
+//     printf("Max-->%d",ans);
+// }
+// int main(){
+//     printf("Before calling the functions\n");
+//     fun();
+//     printf("After calling the function\n");
+
+
+// }
+// int main (){
+//     int a,b,c;
+//     printf("Enter the numbers\n");// this is calling
+//     scanf("%d%d%d", &a, &b, &c);
+//     maxx(a,b,c);
+
+// }
+
+// #include<stdio.h>
+// int maxx(int x,int y,int z){// decleration of function and prototype
+//     int ans;
+//     ans=(x>y && x>z)?x:(y>z? y:z);// this is calling
+//     return ans;
+    
+// }
+
+// int main (){
+//     int a,b,c;
+//     printf("Enter the numbers\n");// this is calling
+//     scanf("%d%d%d", &a, &b, &c);
+//     //ans=maxx(a,b,c);
+//     printf("%d",maxx(a,b,c));
+
+// }
